@@ -1,7 +1,7 @@
 # PCB_Engraving_Machine
 
-<img src="https://github.com/user-attachments/assets/d3066266-57d7-422b-92ca-81b4aef8e547" width="350" height="500">
-<img src="https://github.com/user-attachments/assets/2d432221-55f3-4a65-9c71-61c4497e9322" width="350" height="500">
+<img src="https://github.com/user-attachments/assets/d3066266-57d7-422b-92ca-81b4aef8e547" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/2d432221-55f3-4a65-9c71-61c4497e9322" width="300" height="500">
 
 A DIY 2-axis PCB engraving machine repurposed from an old 3D printer frame and stepper motors, built for low-cost in-house PCB prototyping. The system uses Arduino UNO and a CNC Shield V3 with A4988 drivers, enabling smooth motion control via G-code. The design focuses on X and Y motion only, ideal for basic engraving using a fixed-depth spindle.
 
