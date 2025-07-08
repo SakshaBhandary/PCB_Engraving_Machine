@@ -7,12 +7,12 @@ A DIY 2-axis PCB engraving machine repurposed from an old 3D printer frame and s
 
 ## Project Highlights <image src="https://github.com/user-attachments/assets/aaafbec1-0b6a-4b48-aec2-079f5d2aa902" width="25" height="25">
 
-• Repurposed 3D printer frame for low-cost CNC platform  
-• 2-axis motion (X and Y) for engraving copper boards  
-• Engraves vector-based PCB designs using a **fixed-depth spindle**  
-• Controlled by **Arduino UNO + CNC Shield + A4988 Drivers**  
-• G-code created using **Inkscape with Gcodetools plugin**  
-• Real-time machine control using **Universal G-code Sender (UGS)** 
+1. Repurposed 3D printer frame for low-cost CNC platform  
+2. 2-axis motion (X and Y) for engraving copper boards  
+3. Engraves vector-based PCB designs using a **fixed-depth spindle**  
+4. Controlled by **Arduino UNO + CNC Shield + A4988 Drivers**  
+5. G-code created using **Inkscape with Gcodetools plugin**  
+6. Real-time machine control using **Universal G-code Sender (UGS)** 
 
 ## Tools & Software Used <img src="https://github.com/user-attachments/assets/27d657e7-02c7-4a75-abe4-81f2f3b3069f" width="20" height="20">
 
